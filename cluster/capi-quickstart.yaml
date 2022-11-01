@@ -21,7 +21,7 @@ kind: AWSManagedControlPlane
 metadata:
   name: capi-quickstart-control-plane
 spec:
-  region: us-east-1
+  region: us-east-2
   sshKeyName: mriggs-pf9
   version: v1.24.0
 ---
