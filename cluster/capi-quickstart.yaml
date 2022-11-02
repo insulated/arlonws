@@ -56,7 +56,7 @@ spec:
   template:
     spec:
       ami:
-        id: ami-05ed43b4a6042c298
+        id: ami-06bdb0d00ff41dc6d
       iamInstanceProfile: nodes.cluster-api-provider-aws.sigs.k8s.io
       instanceType: t2.large
       sshKeyName: Mike Riggs
